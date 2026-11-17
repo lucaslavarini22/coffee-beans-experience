@@ -3,17 +3,14 @@
   "version": "1.0.0",
   "description": "Coffee Beans Experience — 3D Hybrid Canvas Scrubbing & WebGL Alpha-Matte Video",
   "scripts": {
-    "dev": "npx serve .",
-    "start": "npx serve .",
-    "build": "echo 'Static build ready'"
+    "dev": "npx serve ."
   },
   "keywords": [
     "coffee",
     "interactive",
     "canvas-scrubbing",
     "webgl",
-    "awwwards",
-    "apple-motion"
+    "awwwards"
   ],
   "author": "Lucas Lavarini",
   "license": "MIT"
